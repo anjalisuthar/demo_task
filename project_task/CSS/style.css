@@ -8,15 +8,15 @@
     margin-bottom: 20px;
     text-align: center;
     font-size: 30px;
-
 }
+
 /*-----------service section---------*/
 h6{
-
 color: linen;
 text-align: center;
 }
-/*--------for botton section------------*/
+
+/*--------for button section------------*/
 #bttn{
     margin-top: 10px;
     margin-right: 20PX;
@@ -33,18 +33,15 @@ text-align: center;
     cursor: pointer;
     text-align: center;
 }
+
 /*---------last section------------*/
 #last
   {
     margin-top: 20px;
-    }
-
-
-
+  }
 h5{
     text-align: center;
-
-}
+  }
 table, th, td{
     margin-top: 5px;
     border: rgb(11, 13, 14);
